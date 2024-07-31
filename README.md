@@ -2,7 +2,7 @@
 
 Welcome to the Task Management System! This application provides a simple and effective way to manage your tasks. You can create, view, edit, and delete tasks through a user-friendly interface. The program utilizes file storage to maintain task information, offering options to sort and filter tasks based on different criteria.
 
-## Project Background
+## Project Background ##
 
 This Task Management System was developed as part of a second-semester project for the course "Object Oriented Programming" at FAST NUCES Karachi. The project aims to apply essential object-oriented programming concepts and techniques learned during the course.
 
