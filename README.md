@@ -84,7 +84,7 @@ The `TaskManager` class handles various task-related operations, providing funct
 
 ### Example Code Snippets
 
-Here's a quick look at some core functions used in the program. For the full code, please check the source files in the repository.
+Here's a quick look at some core functions used in the program. For the full code, please check the [source files](https://github.com/SHaiderM16/Task-Management-System/tree/main/src) in the repository.
 
 #### Create Task Function
 
