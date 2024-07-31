@@ -4,7 +4,7 @@ Welcome to the Task Management System! This application provides a simple and ef
 
 ## Project Background ##
 
-This Task Management System was developed as part of a second-semester project for the course "Object Oriented Programming" at FAST NUCES Karachi. The project aims to apply essential object-oriented programming concepts and techniques learned during the course.
+This Task Management System was developed as part of a second-semester project for the course "Object Oriented Programming" at FAST-NUCES Karachi. The project aims to apply essential object-oriented programming concepts and techniques learned during the course.
 
 ## Features
 
