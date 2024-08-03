@@ -18,7 +18,8 @@ void printMainMenu()
     cout << "3. Edit Task" << endl;
     cout << "4. Delete Task" << endl;
     cout << "5. Exit Program" << endl;
-    cout << "Enter your choice (1-5): ";
+    cout << endl
+         << "Enter your choice (1-5): ";
 }
 
 // Function to print the view options
