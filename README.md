@@ -15,7 +15,6 @@ This Task Management System was developed as part of a second-semester project f
 - **Error Handling**: Robust input validation to prevent incorrect entries.
 - **File Storage**: Save tasks to a file and retrieve them upon startup.
 
-
 ![Task Creation](assets/feature-task-creation.png)
 
 *Example of the task creation interface where users input task details.*
