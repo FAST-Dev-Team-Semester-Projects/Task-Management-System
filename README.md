@@ -16,6 +16,7 @@ This Task Management System was developed as part of a second-semester project f
 - **File Storage**: Save tasks to a file and retrieve them upon startup.
 
 ![Task Creation](assets/feature-task-creation.png)
+*Example of the task creation interface where users input task details.*
 
 ## How to Use
 
