@@ -90,7 +90,7 @@ The `TaskManager` class handles various task-related operations, providing funct
 
 ### Example Code Snippets
 
-Here's a quick look at some core functions used in the program. For the full code, please check the [source files](https://github.com/SHaiderM16/Task-Management-System/tree/main/src) in the repository.
+Here's a quick look at some core functions used in the program. For the full code, please check the [source files](https://github.com/FAST-Dev-Team-Semester-Projects/Task-Management-System/tree/main/src) in the repository.
 
 #### Create Task Function
 
@@ -160,7 +160,7 @@ void TaskManager::viewTask(int sortingMethod)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SHaiderM16/Task-Management-System/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/FAST-Dev-Team-Semester-Projects/Task-Management-System/blob/main/LICENSE) file for details.
 
 ## Future Improvements
 
