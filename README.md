@@ -43,7 +43,7 @@ To compile and run the application, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/SHaiderM16/Task-Management-System.git
+    git clone https://github.com/FAST-Dev-Team-Semester-Projects/Task-Management-System.git
     ```
 
 2. **Navigate to the project directory**:
